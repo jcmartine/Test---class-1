@@ -1,4 +1,0 @@
-Hello world class 1
-I am still testing
-Continue to test
-and more test
